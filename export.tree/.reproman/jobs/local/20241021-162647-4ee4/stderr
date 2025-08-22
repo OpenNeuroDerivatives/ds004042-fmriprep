@@ -1,9 +1,0 @@
-Warning: Permanently added 'c105-191' (ED25519) to the list of known hosts.
-WARNING (10/22/24 22:42:39): LAUNCHER_WORKDIR variable not set. Using current directory.
-using /tmp/launcher.6707508.hostlist.L2UTqyU5 to get hosts
-starting job on c105-191
-starting job on c105-192
-starting job on c105-193
-starting job on c105-194
-starting job on c105-201
-Terminated
